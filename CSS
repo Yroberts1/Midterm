@@ -1,12 +1,6 @@
-*{
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
-div.container{
-  border: 5px solid #edaaff;
-  width: 80%;
-  margin: 0 auto;
+*div.container{
+  border: 10px solid #edaaff;
+  width: 100%;
 }
 header{
   background-color: plum;
@@ -15,7 +9,7 @@ header{
   width: 100%;
 
  nav{
-  background-color:rgb(42, 29, 29)5, 105, 105, 0.69);
+  background-color: dark purple;
 
  }
 
@@ -23,20 +17,10 @@ header{
   text-align: center;
 
  }
- li{
-  display: inline-block;
-  width: 150px;
-  border: 2px solid white;
-  line-height: 3em;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-variant: small-caps;;
 
- }
  a{
   color:blueviolet;
   text-decoration: none;
-  border: 1px solid rgb(0, 9, 128));
-  display: block;
 
  }
  
